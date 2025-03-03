@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WindowPrinterHelper": {
+      "commandName": "Project",
+      "commandLineArgs": "\"--scanner=Name:Smart Tank 530 series\""
+    }
+  }
+}

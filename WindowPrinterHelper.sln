@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowPrinterHelper", "WindowPrinterHelper.csproj", "{B6237624-FB22-415C-81A4-668825962BD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6237624-FB22-415C-81A4-668825962BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6237624-FB22-415C-81A4-668825962BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6237624-FB22-415C-81A4-668825962BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6237624-FB22-415C-81A4-668825962BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D98E38F-7800-4F30-AABB-C47CFB9D0BC1}
+	EndGlobalSection
+EndGlobal
